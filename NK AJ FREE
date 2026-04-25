@@ -1,3 +1,0 @@
-getfenv()
-local Library = loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/3b99c489941a09cd8dc5de3f877722ba89085c787f0e8454a7b2f85bf60201f5/download"))()
-local Library = loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/3b99c489941a09cd8dc5de3f877722ba89085c787f0e8454a7b2f85bf60201f5/download"))()
